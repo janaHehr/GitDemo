@@ -3,3 +3,4 @@
 Six impossible things before breakfast:
 1. There's a potion that can make you shrink.
 2. And a cake that can make you grow.
+3. New line with merge conflict
